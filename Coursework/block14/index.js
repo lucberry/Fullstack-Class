@@ -23,10 +23,3 @@ if (value) {
         console.log("The empty string is falsy (the only falsy string)");
     }
 }
- 
-// //
-//     sum + " is less than -1000";
-//     sum + " is a negative number";
-//     sum + " is equal to 0";
-//     sum + " is larger than 0";
-//     sum + " is greater than 100";
